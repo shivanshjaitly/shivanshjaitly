@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-![shivansh banner](https://raw.githubusercontent.com/shivanshjaitly/README.md/refs/heads/main/Shivansh%20Jaitly%20(1).png)
+![shivansh banner](https://raw.githubusercontent.com/shivanshjaitly/shivanshjaitly/refs/heads/main/Shivansh%20Jaitly%20(1).png)
 
 - 🔭 I’m currently working on Spring Boot Framework.
 - 🌱 I’m currently learning JUnit Testing.
